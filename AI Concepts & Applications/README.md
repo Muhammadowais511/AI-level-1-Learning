@@ -1,18 +1,23 @@
-# AI Learning Level 1
-This repository contains my AI Learning journey from beginner to practical projects.
+# AI Concepts and Applications 🎓
 
-## 🔹 Topics Covered
-- AI Concepts & Applications
-- Unsupervised Learning
--   Clustering
--   Dimensionality Reduction
--   Anomaly Detection
-- Reinforcement Learning
-- Deep Learning
-- Relationship between AI , ML , DL
-## 📁 Projects & Practice
-Each folder has code + explanation.
+📊 This presentation was created to explain the fundamental concepts of Artificial Intelligence, along with examples and real-life applications, in a clear and beginner-friendly way.
+
+## 🔗 Files:
+
+- [📄 PowerPoint Version](./AI_Applications_Multi_Color_Fonts.pptx)
+- [📕 PDF Version](./AI_Applications_Presentation.pdf)
 
 ---
-✅ Follow me for updates
-📧 Contact: owaisattaarialmadani@gmail.com
+
+### 🔍 Topics Covered:
+- AI in Daily Life  
+- AI in Healthcare  
+- AI in Government and Law  
+- AI in Business & Marketing  
+- AI in Transportation  
+- AI in Education  
+- AI in Entertainment  
+- AI in Agriculture & Industry  
+- Types of AI (Narrow, General, Super)
+
+This presentation is part of my portfolio to showcase my understanding of AI concepts and my ability to explain them clearly. 💡
