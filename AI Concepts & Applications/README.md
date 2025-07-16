@@ -4,8 +4,8 @@
 
 ## 🔗 Files:
 
-- [📄 PowerPoint Version](AI-Applications-Presentation.pptx)
-- [📕 PDF Version](AI-Applications-Presentation.pdf)
+- [📄 PowerPoint Version](AI%20Concepts%20%26%20Applications/AI_Applications_Presentation.pptx)
+- [📕 PDF Version](AI%20Concepts%20%26%20Applications/AI_Applications_Presentation.pdf)
 
 ---
 
