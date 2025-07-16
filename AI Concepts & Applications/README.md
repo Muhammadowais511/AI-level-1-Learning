@@ -4,8 +4,8 @@
 
 ## 🔗 Files:
 
-- [📄 PowerPoint Version](./AI_Applications_Multi_Color_Fonts.pptx)
-- [📕 PDF Version](./AI_Applications_Presentation.pdf)
+- [📄 PowerPoint Version](AI-Applications-Presentation.pptx)
+- [📕 PDF Version](AI-Applications-Presentation.pdf)
 
 ---
 
