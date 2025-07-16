@@ -4,8 +4,8 @@
 
 ## 🔗 Files:
 
-- [📄 PowerPoint Version](AI%20Concepts%20%26%20Applications/AI_Applications_Presentation.pptx)
-- [📕 PDF Version](AI%20Concepts%20%26%20Applications/AI_Applications_Presentation.pdf)
+- https://github.com/Muhammadowais511/AI-level-1-Learning/blob/main/AI%20Concepts%20%26%20Applications/Presentation%20AI%20Concepts%20%2C%20Apps%20etc%20.pptx
+  
 
 ---
 
