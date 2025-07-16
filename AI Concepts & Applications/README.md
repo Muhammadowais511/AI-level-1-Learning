@@ -5,7 +5,7 @@
 ## 🔗 Files:
 
 - https://github.com/Muhammadowais511/AI-level-1-Learning/blob/main/AI%20Concepts%20%26%20Applications/Presentation%20AI%20Concepts%20%2C%20Apps%20etc%20.pptx
-  
+ - https://github.com/Muhammadowais511/AI-level-1-Learning/blob/main/AI%20Concepts%20%26%20Applications/DOC-20250715-WA0017..pdf 
 
 ---
 
