@@ -2,6 +2,7 @@
 
 This project explains the core idea of Deep Learning with real-world use cases. It is designed for absolute beginners, especially those who are not into programming but want to build an AI portfolio.
 https://github.com/Muhammadowais511/AI-level-1-Learning/blob/main/DeepLearning/Deep_Learning_Portfolio_Project.jpeg
+https://github.com/Muhammadowais511/AI-level-1-Learning/blob/main/DeepLearning/Deep_Learning_Portfolio_Project.pdf
 ## 📄 What's Inside
 
 - `Deep_Learning_Overview.docx` – a clear Urdu-English explanation of Deep Learning, its structure, and examples.
