@@ -1,5 +1,5 @@
 # 🤖 Understanding the Relationship Between AI, ML, and DL
-
+https://github.com/Muhammadowais511/AI-level-1-Learning/blob/main/Relationship%20between%20AI%20%2C%20ML%20and%20DL/3c35b6d7-f264-46ce-9bd9-182917e20dee.jpg
 
 This project provides a beginner-friendly explanation of the relationship between Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL). It uses a simple Word-based write-up and a visual PNG image to demonstrate how these three concepts are connected.
 
