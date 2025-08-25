@@ -1,4 +1,4 @@
-# AI Learning Level 1
+# AI Lacture 1 and 2 _ About AI Theory 
 This repository contains my AI Learning journey from beginner to practical projects.
 
 ## 🔹 Topics Covered
